@@ -196,7 +196,7 @@ The `Innoscience\ComradeOPML\Resource\Document` class, (we call it `Document` am
 
 
 ## Tests
-ComradeOPML is fully unit tested. Tests are located in the `tests` directory of the Passwordly package and can be run with `phpunit` in the package's base directory.
+ComradeOPML is fully unit tested. Tests are located in the `tests` directory of the ComradeOPML package and can be run with `phpunit` in the package's base directory.
 
 
 ## License
