@@ -1,0 +1,26 @@
+{
+    "name": "innoscience/comrade-opml",
+    "version": "1.0.0",
+    "type": "library",
+    "description": "Comrade need help with OPML, da? We read and write OPML data together no problem. It simple too with PHP.",
+    "keywords": ["opml", "rss"],
+    "homepage": "https://github.com/innoscience/comrade-opml",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "Brandon Fenning",
+            "email": "brandon@innosience.net",
+            "homepage": "http://www.innoscience.net",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Innoscience\\ComradeOPML\\": "src/"
+        }
+
+    },
+    "require": {
+      "php": ">=5.3.0"
+    }
+}
