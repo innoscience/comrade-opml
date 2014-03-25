@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>ComradeOPML Full Test File</title>
+        <dateCreated>Wed, 02 Oct 2002 08:00:00 EST</dateCreated>
+        <dateModified>Wed, 02 Oct 2002 08:00:00 EST</dateModified>
+        <ownerName>Guy Johnson</ownerName>
+        <ownerEmail>Guy@johnson.com</ownerEmail>\
+        <expansionState>1,6,8</expansionState>
+        <vertScrollState>12</vertScrollState>
+        <windowTop>10</windowTop>
+        <windowLeft>20</windowLeft>
+        <windowBottom>30</windowBottom>
+        <windowRight>40</windowRight>
+    </head>
+    <body>
+        <outline text="News" title="News">
+			<outline type="rss" text="NPR" title="NPR" xmlUrl="http://www.npr.com/rss" htmlUrl="http://www.npr.com/"/>
+			<outline type="rss" text="Google News" title="Google News" xmlUrl="http://news.google.com/rss" htmlUrl="http://news.google.com"/>
+			<outline type="rss" text="BBC" title="BBC" xmlUrl="http://www.bbc.com/rss" htmlUrl="http://www.bbc.com/"/>
+        </outline>
+		
+		<outline text="Food" title="Food">
+			<outline type="rss" text="Serious Eats" title="Serious Eats" xmlUrl="http://www.seriouseats.com/rss" htmlUrl="http://www.seriouseats.com/"/>
+			<outline type="rss" text="Cooking.com" title="Cooking.com" xmlUrl="http://www.cooking.com/rss" htmlUrl="http://www.cooking.com/"/>
+        </outline>
+		
+		<outline text="Tech" title="Tech">
+            <outline type="rss" text="Hacker News" title="Hacker News" xmlUrl="http://www.hackernews.com/rss" htmlUrl="http://www.hackernews.com"/>  
+			<outline type="rss" text="SlashDot" title="SlashDot" xmlUrl="http://www.slashdot.org/rss" htmlUrl="http://www.slashdot.org"/>  
+        </outline>
+        
+    </body>
+</opml>
