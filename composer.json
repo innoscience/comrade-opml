@@ -2,7 +2,7 @@
     "name": "innoscience/comrade-opml",
     "version": "1.0.0",
     "type": "library",
-    "description": "Comrade need help with OPML, da? We read and write OPML data together no problem. It simple too with PHP.",
+    "description": "Comrade need help with OPML, da? We read and write OPML data together no problem. It to spec & simple too, with PHP.",
     "keywords": ["opml", "rss"],
     "homepage": "https://github.com/innoscience/comrade-opml",
     "license": "GPLv2",
